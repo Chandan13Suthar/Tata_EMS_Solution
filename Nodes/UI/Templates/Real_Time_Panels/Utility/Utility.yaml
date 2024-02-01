@@ -32418,7 +32418,7 @@ Children:
           - Name: BorderColor
             Type: BaseDataVariableType
             DataType: Color
-            Value: "#ffffff"
+            Value: "#ff0000"
           - Name: Width
             Type: BaseVariableType
             DataType: Size
@@ -32455,6 +32455,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: electricalSymbol_border_1
             Type: Image
             Children:
@@ -32481,6 +32486,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: OriginalWidth
             Type: BaseDataVariableType
             DataType: Size
@@ -32508,7 +32518,7 @@ Children:
           - Name: BorderColor
             Type: BaseDataVariableType
             DataType: Color
-            Value: "#ffffff"
+            Value: "#ff0000"
           - Name: Width
             Type: BaseVariableType
             DataType: Size
@@ -32545,6 +32555,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: electricalSymbol_border_1
             Type: Image
             Children:
@@ -32571,6 +32586,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: OriginalWidth
             Type: BaseDataVariableType
             DataType: Size
@@ -32598,7 +32618,7 @@ Children:
           - Name: BorderColor
             Type: BaseDataVariableType
             DataType: Color
-            Value: "#ffffff"
+            Value: "#ff0000"
           - Name: Width
             Type: BaseVariableType
             DataType: Size
@@ -32635,6 +32655,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: electricalSymbol_border_1
             Type: Image
             Children:
@@ -32661,6 +32686,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: OriginalWidth
             Type: BaseDataVariableType
             DataType: Size
@@ -32688,7 +32718,7 @@ Children:
           - Name: BorderColor
             Type: BaseDataVariableType
             DataType: Color
-            Value: "#ffffff"
+            Value: "#ff0000"
           - Name: Width
             Type: BaseVariableType
             DataType: Size
@@ -32725,6 +32755,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: electricalSymbol_border_1
             Type: Image
             Children:
@@ -32751,6 +32786,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: OriginalWidth
             Type: BaseDataVariableType
             DataType: Size
@@ -32778,7 +32818,7 @@ Children:
           - Name: BorderColor
             Type: BaseDataVariableType
             DataType: Color
-            Value: "#ffffff"
+            Value: "#ff0000"
           - Name: Width
             Type: BaseVariableType
             DataType: Size
@@ -32815,6 +32855,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: electricalSymbol_border_1
             Type: Image
             Children:
@@ -32841,6 +32886,11 @@ Children:
               DataType: Size
               ModellingRule: Optional
               Value: 42.500999450683594
+            - Name: Blink
+              Type: BaseDataVariableType
+              DataType: Boolean
+              ModellingRule: Optional
+              Value: true
           - Name: OriginalWidth
             Type: BaseDataVariableType
             DataType: Size
