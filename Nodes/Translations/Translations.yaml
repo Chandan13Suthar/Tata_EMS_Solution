@@ -10,7 +10,7 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [576,4],
+    "Dimensions": [578,4],
     "Body": [
      "","en-US","it-IT","zh-CN",
      "Acknowledge","Ack","Riconosci","确认",
@@ -36,7 +36,7 @@ Children:
      "SetSpeed","Set Speed","Velocità","设置速度",
      "SingleAndDoubleSignature","Single and Double Signature","Firma e Doppia Firma","单签名和双签名",
      "SingleInstancesOfMyMotor","Single Instances of MyMotor","Singole Istanze di MyMotor","MyMotor 的单个实例",
-     "StringFormatter","String Formatter","Formattatore di Stringhe","字符串格式器",
+     "Histo Dashboard","Histo Dashboard","Cruscotto storico","历史仪表板",
      "Breaker Capacity","Breaker Capacity","Capacità dell'interruttore","断路器容量",
      "TemplateLibraries","Template Libraries","Libreria dei Templates","模板库",
      "Translation","Translation","Traduzione","翻译",
@@ -72,7 +72,7 @@ Children:
      "HistogramChart","Histogram Chart","Grafico a Barre","柱状图",
      "History","History","Storico","历史",
      "IndexedDynamicLink","Indexed DynamicLink","DynamicLink Indicizzato","索引的动态链接",
-     "KeyValueConverter","Key-Value Converter","Convertitore Chiave-Valore","键-值转换器",
+     "Consumption Distribution","Consumption Distribution","Distribuzione dei consumi","消费分布",
      "ListBoxSelection","Selection via ListBox","Selezione da ListBox","通过列表框进行选择",
      "Localization","Localization","Localizzazione","本地化",
      "Login","Login","Accesso","登录",
@@ -587,7 +587,9 @@ Children:
      "Move target: Card1","Move target: Card1","Oggetto mofimentato: Card1","移动目标：卡1",
      "Retain Position after reboot","Retain Position after reboot","","",
      "NOT ","NOT ","NON ","不 ",
-     "Change detection is set to: {0}._From now on, all changes to this control will {1}be saved.","Change detection is set to: {0}.\nFrom now on, all changes to this control will {1}be saved.","Il rilevamento delle modifiche è impostato su: {0}.\nD'ora in poi, tutte le modifiche apportate a questo controllo {1}verranno salvate.","更改检测设置为：{0}。\n从现在开始，对此控件的所有更改都将{1}保存。"
+     "Change detection is set to: {0}._From now on, all changes to this control will {1}be saved.","Change detection is set to: {0}.\nFrom now on, all changes to this control will {1}be saved.","Il rilevamento delle modifiche è impostato su: {0}.\nD'ora in poi, tutte le modifiche apportate a questo controllo {1}verranno salvate.","更改检测设置为：{0}。\n从现在开始，对此控件的所有更改都将{1}保存。",
+     "Daily Consumption Report","Daily Consumption Report","Rapporto sui consumi giornalieri","每日消费报告",
+     "Monthly Consumption Report","Monthly Consumption Report","Informe de consumo mensual","每月消费报告"
     ]
    }
 - Name: ImportAndExportTranslations

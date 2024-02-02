@@ -3563,7 +3563,7 @@ Children:
           - Name: Tile_Title
             Type: BaseDataVariableType
             DataType: LocalizedText
-            Value: {"NamespaceIndex":30,"TextId":"StringFormatter"}
+            Value: {"NamespaceIndex":30,"TextId":"Histo Dashboard"}
           - Name: Tile_Subtitle
             Type: BaseDataVariableType
             DataType: LocalizedText
@@ -3999,7 +3999,7 @@ Children:
           - Name: Tile_Title
             Type: BaseDataVariableType
             DataType: LocalizedText
-            Value: {"NamespaceIndex":30,"TextId":"KeyValueConverter"}
+            Value: {"NamespaceIndex":30,"TextId":"Consumption Distribution"}
           - Name: Tile_Subtitle
             Type: BaseDataVariableType
             DataType: LocalizedText
@@ -4011,7 +4011,7 @@ Children:
           - Name: Tile_Open_Panel
             Type: BaseDataVariableType
             DataType: NodeId
-            Value: "/Objects/Tata_EMS_Solution/UI/Screens/HistoricalDashboards/Spare_Dashboard"
+            Value: "/Objects/Tata_EMS_Solution/UI/Screens/HistoricalDashboards/ConsumptionDistributionDashboard"
           - Name: ButtonInfo
             Type: Button
             Children:
@@ -4143,6 +4143,11 @@ Children:
                     Type: DynamicLink
                     DataType: NodePath
                     Value: "../../../../Enabled"
+        - Name: TopMargin
+          Type: BaseVariableType
+          DataType: Size
+          ModellingRule: Optional
+          Value: 15.0
       - Name: Row2
         Type: RowLayout
       - Name: Row3
@@ -10587,7 +10592,7 @@ Children:
           - Name: Tile_Title
             Type: BaseDataVariableType
             DataType: LocalizedText
-            Value: {"LocaleId":"en-US","Text":"Daily Consumption Report"}
+            Value: {"NamespaceIndex":30,"TextId":"Daily Consumption Report"}
           - Name: Tile_Subtitle
             Type: BaseDataVariableType
             DataType: LocalizedText
@@ -11068,7 +11073,7 @@ Children:
           - Name: Tile_Title
             Type: BaseDataVariableType
             DataType: LocalizedText
-            Value: {"LocaleId":"en-US","Text":"Monthly Consumption Report"}
+            Value: {"NamespaceIndex":30,"TextId":"Monthly Consumption Report"}
           - Name: Tile_Subtitle
             Type: BaseDataVariableType
             DataType: LocalizedText

@@ -3689,7 +3689,7 @@ Children:
               Type: BaseDataVariableType
               DataType: LocalizedText
               ModellingRule: Optional
-              Value: {"NamespaceIndex":30,"TextId":"StringFormatter"}
+              Value: {"NamespaceIndex":30,"TextId":"Histo Dashboard"}
             - Name: MouseClickEventHandler1
               Type: EventHandler
               Children:
@@ -3826,7 +3826,7 @@ Children:
               Type: BaseDataVariableType
               DataType: LocalizedText
               ModellingRule: Optional
-              Value: {"NamespaceIndex":30,"TextId":"KeyValueConverter"}
+              Value: {"NamespaceIndex":30,"TextId":"Consumption Distribution"}
             - Name: MouseClickEventHandler1
               Type: EventHandler
               Children:
@@ -3863,7 +3863,7 @@ Children:
                     - Name: NewPanel
                       Type: BaseDataVariableType
                       DataType: NodeId
-                      Value: "/Objects/Tata_EMS_Solution/UI/Screens/HistoricalDashboards/Spare_Dashboard"
+                      Value: "/Objects/Tata_EMS_Solution/UI/Screens/HistoricalDashboards/ConsumptionDistributionDashboard"
                     - Name: AliasNode
                       Type: BaseDataVariableType
                       DataType: NodeId

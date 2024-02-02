@@ -445,12 +445,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -712,12 +712,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -979,12 +979,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -1246,12 +1246,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -1513,12 +1513,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -1780,12 +1780,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -2047,12 +2047,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -2314,12 +2314,12 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 706.0
+              Value: 709.0
             - Name: TopMargin
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 12.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -2586,7 +2586,7 @@ Children:
               Type: BaseVariableType
               DataType: Size
               ModellingRule: Optional
-              Value: 21.0
+              Value: 10.0
             - Name: DisplayValuePath
               Type: BaseDataVariableType
               DataType: LocalizedText
